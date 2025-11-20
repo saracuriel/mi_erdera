@@ -16,7 +16,7 @@ The purpose of this document is to guide resources to connect to the EJP RD Virt
 
 Funding
 --------
-..  figure:: _images/europe.png
+..  figure:: https://github.com/ERDERA/VP-Onboarding-Doc/blob/main/_images/europe.png
     :alt:  Europe
     :width: 20%
 
