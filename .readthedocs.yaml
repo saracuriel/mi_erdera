@@ -10,6 +10,4 @@ python:
     - requirements: requirements.txt
 
 sphinx:
-  configuration: docs/source/conf.py
-  builder: html
-  output: $READTHEDOCS_OUTPUT/html
+  configuration: conf.py
