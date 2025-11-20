@@ -11,5 +11,3 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
-  builder: html
-  output: $READTHEDOCS_OUTPUT/html
