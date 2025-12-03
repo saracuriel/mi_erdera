@@ -6,6 +6,7 @@ DCAT – Data Catalog Vocabulary (W3C)
 DMP – Data Management Plan
 DSH – Data Services Hub 
 EDAM – EMBRACE Data and Methods ontology 
+EU – European Union
 FAIR – Findable Accessible Interoperable Reusable
 FDP – FAIR Data Point
 FTP – File Tranfer Protocol
@@ -16,6 +17,7 @@ HGVS – Human Genome Variation Society
 HL7 FHIR – Health Level 7 – Fast Healthcare Interoperability Resources
 ICD – International Classification of Diseases
 ICF – International Classification of Functioning, Disability and Health
+IRDiRC – International Rare Diseases Research Consortium 
 LOINC – Logical Observation Identifiers Names and Codes
 MDR – Metadata Registry (ISO/IEC 11179)
 MedDRA – Medical Dictionary for Regulatory Activites
@@ -32,8 +34,10 @@ PROM – Patient-Reported Outcome Measures
 PROVO – Provenance Ontology
 RD – Rare Diseases 
 REST – Representational State Transfer
+R&I – Research & Investigation 
 SIO – Semanticscience Integrated Ontology 
 SNOMED CT – Systematized Nomenclature of Medicine – Clinical Terms
 SO – Specific Objective
 SOP – Standard Operating Procedure 
 VP – (ERDERA’s) Virtual Platform
+W3C – World Wide Web Consortium 
